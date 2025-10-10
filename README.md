@@ -4,12 +4,11 @@
     width="300"
 />
 </p>
-
-<p align="center">
   
     [SOUNDCLOUD](https://soundcloud.com/maycon-douglas-342354195/narulog)
     
     preview do podcast
+    
 </p>
 
 # Projeto Podcast Gerado por I.A.s
