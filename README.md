@@ -5,9 +5,7 @@
 />
 </p>
   
-    [SOUNDCLOUD](https://soundcloud.com/maycon-douglas-342354195/narulog)
     
-    preview do podcast
     
 </p>
 
@@ -42,6 +40,11 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `No podcast`
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `chatgpt`
+
+ ## ✨ Link Podcast
+
+- [SOUNDCLOUD](https://soundcloud.com/maycon-douglas-342354195/narulog)
+    
 
 ## 👨‍💻 Expert
 
