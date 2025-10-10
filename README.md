@@ -9,44 +9,48 @@
     
 </p>
 
-# Projeto Podcast Gerado por I.A.s
+# 🎙️ Projeto Narulog – A Missão Ninja do Customer Service
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados.
+Podcast desenvolvido com o apoio de ferramentas de Inteligência Artificial, explorando o universo da logística e do customer service, com um toque de criatividade inspirado no mundo ninja de Naruto.
 
-Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
+O objetivo deste projeto é demonstrar como fluxos de prompts bem estruturados podem gerar todo o processo de criação de um podcast — da ideia à edição final.
 
-## 💻 Tecnologias utilizadas no projeto
+## 💻 Tecnologias e Ferramentas Utilizadas
 
-- [ChatGPT](https://chatgpt.com/)
-- [ElevenLabs](https://elevenlabs.io/)
-- [Capcut](https://www.capcut.com/)
+- [ChatGPT](https://chatgpt.com/) → criação de roteiro e capa
+- [ElevenLabs](https://elevenlabs.io/) → geração de voz e narração
+- [Capcut](https://www.capcut.com/) → edição, mixagem e adição de trilhas sonoras
+- [Notion](https://www.notion.so/) → organização do fluxo de prompts e anotações
 
-## ✨ Como foi feito ?
+## ✨ Como foi construído?
 
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Capa gerada via chatgpt
-- Capcut para tratar aúdio e adicionar sons de fundo
+- Roteiro criado com auxílio do ChatGPT, simulando um apresentador e estrutura narrativa.
+- Áudio gerado na ElevenLabs com vozes sintéticas e ajustes de entonação.
+- Capa desenvolvida via ChatGPT (geração de imagem com IA).
+- Edição final realizada no CapCut, adicionando trilha, efeitos e equalização.
 
-## 📚 Materiais
+## 📚 Materiais de Apoio
+
+Template no Notion com toda a esteira de prompts e instruções de uso.
 
 - [Notion Template](https://www.notion.so/287f29b6c77080b3a0b3ffa222ed1721?v=287f29b6c770807dbefc000c2e0a1f17)
 
 
-## 🛠️ Instruções de execução
+## 🛠️ Passo a Passo para Reproduzir
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `No podcast` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+Siga as etapas abaixo para recriar o processo de forma automatizada:
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `chatgpt`
+- 🤖 1. Gere o roteiro com os prompts disponíveis no Notion, usando o ChatGPT.
+- 🎧 2. Converta o texto em áudio narrado com o ElevenLabs.
+- 🎨 3. Crie a arte da capa do episódio via ChatGPT (geração de imagem).
+- 🎬 4. Faça o tratamento final no CapCut, adicionando som ambiente e vinheta.
 
- ## ✨ Link Podcast
+ ## ✨ Link do Podcast
 
 - [SOUNDCLOUD](https://soundcloud.com/maycon-douglas-342354195/narulog)
     
 
-## 👨‍💻 Expert
+## 👨‍💻 Criador
 
 <p>
     <img 
@@ -78,4 +82,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `No podcast`
 
 ---
 
-⌨️ com 💜 por [Maycon Douglas](https://github.com/maycondouglasnavy-prog)
+🚀 Projeto produzido por [Maycon Douglas](https://github.com/maycondouglasnavy-prog)
