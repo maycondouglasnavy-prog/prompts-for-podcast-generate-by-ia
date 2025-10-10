@@ -19,7 +19,7 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - [ChatGPT](https://chatgpt.com/)
 - [ElevenLabs](https://elevenlabs.io/)
-- [Capcut](https://www.capcut.com/)/)
+- [Capcut](https://www.capcut.com/)
 
 ## ✨ Como foi feito ?
 
@@ -52,7 +52,6 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `No podcast`
     />
     <p>&nbsp&nbsp&nbspMaycon Douglas<br>
     &nbsp&nbsp&nbsp
-      
     <a 
         href="https://github.com/maycondouglasnavy-prog">
         GitHub
