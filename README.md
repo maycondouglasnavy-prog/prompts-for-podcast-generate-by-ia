@@ -9,6 +9,8 @@
     
 </p>
 
+> ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluno na plataforma da [DIO](https://dio.me)
+
 # 🎙️ Projeto Narulog – A Missão Ninja do Customer Service
 
 Podcast desenvolvido com o apoio de ferramentas de Inteligência Artificial, explorando o universo da logística e do customer service, com um toque de criatividade inspirado no mundo ninja de Naruto.
